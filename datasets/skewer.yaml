@@ -1,0 +1,9 @@
+
+path: C:\Users\H1501\Desktop\yolo v8\datasets\skewer
+train: images/train
+val: images/val
+
+nc: 1
+
+# Classes
+names: ['skewer']
